@@ -1,4 +1,4 @@
-# DATA PORTFOLIO
+# [DATA PORTFOLIO](https://shafmalik.github.io/shaf.malik/) 
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
