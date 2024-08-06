@@ -11,7 +11,7 @@ This is (Shaf Malik) the front page of a website that is powered by the [Academi
 
 ## Projects
 
-<img align="right" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="right" width="250" height="150" src="https://github.com/shafmalik/shaf.malik/blob/5d7d82bd663c8f9a82740914bc202580b2a1e380/images/IMG1127.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
