@@ -14,7 +14,7 @@ This is (Shaf Malik) the front page of a website that is powered by the [Academi
 <img align="right" width="250" height="150" src="https://github.com/shafmalik/shaf.malik/blob/ef261763a35c05b5df0e6bf27bb70514680a09cc/images/IMG_0245.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
-![IMG1127](https://github.com/user-attachments/assets/59a5495c-aa32-4dde-9620-abf65bc20aa9)
+
 
 
 
@@ -30,4 +30,6 @@ In this project I have used survival analysis to study how the likelihood of the
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. 
+
+![IMG1127](https://github.com/user-attachments/assets/59a5495c-aa32-4dde-9620-abf65bc20aa9)
