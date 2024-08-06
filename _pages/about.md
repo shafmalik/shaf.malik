@@ -16,11 +16,9 @@ This is (Shaf Malik) the front page of a website that is powered by the [Academi
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
 
-
-
-
-<img align="right" width="250" height="150" src="https://github.com/shafmalik/shaf.malik/blob/83a4f67195fc1612ebc443178ea94467097761a1/images/3953273590_704e3899d5_m.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+ **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+![IMG1127](https://github.com/user-attachments/assets/59a5495c-aa32-4dde-9620-abf65bc20aa9)
 
 ## Micro Projects
 
@@ -31,5 +29,3 @@ In this project I have used survival analysis to study how the likelihood of the
 Thanks for visting!
 ------
 
-
-![IMG1127](https://github.com/user-attachments/assets/59a5495c-aa32-4dde-9620-abf65bc20aa9)
