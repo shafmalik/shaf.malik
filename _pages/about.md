@@ -28,8 +28,8 @@ In this project I have used survival analysis to study how the likelihood of the
 
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
 
-For more info
+Thanks for visting!
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. 
+
 
 ![IMG1127](https://github.com/user-attachments/assets/59a5495c-aa32-4dde-9620-abf65bc20aa9)
