@@ -18,7 +18,8 @@ In this project I have used survival analysis to study how the likelihood of the
 
  **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
-![IMG1127](https://github.com/user-attachments/assets/59a5495c-aa32-4dde-9620-abf65bc20aa9)
+![Capture1](https://github.com/user-attachments/assets/b3f13263-51e0-459a-bf6c-b9b381265a81)
+
 
 ## Micro Projects
 
