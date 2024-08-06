@@ -21,7 +21,7 @@ repository               : "https://github.com/shafmalik/shaf.malik"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG1127.jpg"
+  avatar           : "https://github.com/shafmalik/shaf.malik/blob/5d7d82bd663c8f9a82740914bc202580b2a1e380/images/IMG1127.jpg"
   name             : "Shaf Malik"
   pronouns         : # example: "she/her"  
   bio              : ""
